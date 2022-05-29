@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monikagadewar21
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Competitive Programming
-- 💞️ I’m looking to collaborate on Software Developement
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me Through my mail gadewarmonika@gmail.com
 
 <!---
